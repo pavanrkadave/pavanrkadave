@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Hegde</h1>
-<h3 align="center">A passionate Cloud Developer based in Bamberg, Germany</h3>
+<h3 align="center">Cloud Developer @ BMW Group </h3>
+<h3 align="center">Based in : Bamberg, Germamy </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanrkadave&label=Profile%20views&color=0e75b6&style=flat" alt="pavanrkadave" /> </p>
 
