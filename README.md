@@ -33,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanrkadave&show_icons=true&locale=en&layout=compact" alt="pavanrkadave" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavanrkadave&show_icons=true&locale=en" alt="pavanrkadave" /></p>
+
+[![An image of @pavanrkadave's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pavanrkadave)](https://holopin.io/@pavanrkadave)
