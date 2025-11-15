@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pavanrkadave.github.io/](https://pavanrkadave.github.io/)
 
-- 💬 Ask me about **Java, Spring Bott, AWS**
+- 💬 Ask me about **Java, Spring Boot, AWS**
 
 - 📫 How to reach me **pavanrkadave@gmail.com**
 
